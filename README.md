@@ -56,14 +56,20 @@ This is my personal portfolio website built to showcase my skills, projects, exp
 
 ## 📸 Preview
 
-(Add screenshot here after uploading image)
+(screenshot)
 Example:
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/487b1969-41fe-41e0-8ca6-843a0ddc665c" />
 
 
 ```
 ![Portfolio Screenshot](screenshot.png)
 ```
 <img width="1917" height="603" alt="image" src="https://github.com/user-attachments/assets/4087e274-3980-4494-a94f-a06bef5c169d" />
+
+---
+
+---
+<img width="1913" height="921" alt="image" src="https://github.com/user-attachments/assets/c7f27f69-09b4-4956-b1be-00d5e1e38342" />
 
 ---
 
